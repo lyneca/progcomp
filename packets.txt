@@ -1,0 +1,134 @@
+MSG 728931 Aliquam eu erat semper, interdum libero sed, tempus felis. Nunc eleifend semper sagittis. Etiam lorem lorem, imperdiet vel feugiat quis, ullamcorper id erat.
+MSG 362254 Donec a venenatis dui. Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol."
+MSG 193861 Suspendisse potenti. Its main implementation is the Glasgow Haskell Compiler.
+MSG 509507 Donec nec nisl dignissim, suscipit elit ut, molestie erat. Fusce eget urna nec neque rutrum dapibus.
+MSG 757845 Praesent semper lorem at quam porttitor sollicitudin. Ports are used to communicate with the external world.
+MSG 315579 Atoms can contain any character if they are enclosed within single quotes and an escape convention exists which allows any character to be used within an atom. The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.
+MSG 556429 Nullam fermentum est enim, quis consequat augue elementum a. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 276703 Nullam eget ex sapien. They are written as strings of consecutive alphanumeric characters, the first character being lowercase.
+MSG 148262 The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn. Integer at consequat neque.
+ACK 757845
+MSG 544518 Atoms are used within a program to denote distinguished values. Donec at dolor libero. Vestibulum eu tempus nisl.
+MSG 569645 Nullam fermentum est enim, quis consequat augue elementum a. Fusce in ipsum mi.
+MSG 520684 Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla. Fusce eget urna nec neque rutrum dapibus.
+MSG 275890 Nunc eleifend semper sagittis. Etiam lorem lorem, imperdiet vel feugiat quis, ullamcorper id erat. They are written as strings of consecutive alphanumeric characters, the first character being lowercase.
+MSG 721836 Any element of a tuple can be accessed in constant time. It is also a garbage-collected runtime system.
+MSG 916543 Nullam fermentum est enim, quis consequat augue elementum a. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 161047 Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla. Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol."
+MSG 482960 The arguments can be primitive data types or compound data types. Atoms are used within a program to denote distinguished values.
+MSG 138182 The arguments can be primitive data types or compound data types. Atoms are used within a program to denote distinguished values.
+ACK 148262
+MSG 144438 They are written as strings of consecutive alphanumeric characters, the first character being lowercase. Aenean ligula lectus, tristique in tristique a, lacinia sit amet nunc.
+MSG 596421 Any element of a tuple can be accessed in constant time. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 133707 Donec a venenatis dui. Erlang is known for its designs that are well suited for systems.
+MSG 967338 Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit. Nullam eget ex sapien.
+MSG 363940 Nunc eleifend semper sagittis. Etiam lorem lorem, imperdiet vel feugiat quis, ullamcorper id erat. Nullam fermentum est enim, quis consequat augue elementum a.
+MSG 307740 Donec a venenatis dui. The arguments can be primitive data types or compound data types.
+MSG 220639 It is also a garbage-collected runtime system. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+MSG 338270 Erlang is a general-purpose, concurrent, functional programming language. Fusce eget urna nec neque rutrum dapibus.
+MSG 295889 Integer at consequat neque. Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla.
+MSG 972774 Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla. Atoms are used within a program to denote distinguished values.
+ACK 144438
+MSG 577051 Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol." The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 724194 The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn. It is also a garbage-collected runtime system.
+MSG 653690 The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing. Donec at dolor libero. Vestibulum eu tempus nisl.
+MSG 633048 It is also a garbage-collected runtime system. Any element of a tuple can be accessed in constant time.
+MSG 459103 Quisque volutpat metus lectus, vestibulum rhoncus velit mattis ut. Cras ornare mauris dolor, in dignissim mauris semper sit amet.
+ACK 307740
+MSG 982946 Atoms can contain any character if they are enclosed within single quotes and an escape convention exists which allows any character to be used within an atom. Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+MSG 85349 Integer at consequat neque. They are written as strings of consecutive alphanumeric characters, the first character being lowercase.
+MSG 34954 Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit. Donec a venenatis dui.
+MSG 808208 Haskell features a type system with type inference and lazy evaluation. Fusce eget urna nec neque rutrum dapibus.
+MSG 501308 Any element of a tuple can be accessed in constant time. Cras fringilla arcu id nunc tincidunt mattis.
+MSG 469687 Erlang is a general-purpose, concurrent, functional programming language. Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla.
+ACK 972774
+ACK 459103
+MSG 196639 Ports are used to communicate with the external world. Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+ACK 338270
+ACK 276703
+ACK 808208
+MSG 863432 Fusce in ipsum mi. Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+ACK 520684
+MSG 204714 Erlang is a general-purpose, concurrent, functional programming language. Erlang is known for its designs that are well suited for systems.
+MSG 795031 Type classes first appeared in the Haskell programming language. Atoms can contain any character if they are enclosed within single quotes and an escape convention exists which allows any character to be used within an atom.
+MSG 392823 Donec at dolor libero. Vestibulum eu tempus nisl. Ports are created with the built-in function open_port.
+MSG 937176 The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn. Donec a venenatis dui.
+MSG 711108 Nullam eget ex sapien. Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+MSG 768256 The arguments can be primitive data types or compound data types. Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol."
+MSG 735376 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ornare mauris dolor, in dignissim mauris semper sit amet.
+ACK 728931
+MSG 970748 Cras ornare mauris dolor, in dignissim mauris semper sit amet. Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit.
+ACK 392823
+MSG 672368 Ports are created with the built-in function open_port. The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.
+MSG 483226 Sed et lectus quam. Integer at imperdiet ante, in faucibus nunc. Erlang is a general-purpose, concurrent, functional programming language.
+MSG 958767 Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. Suspendisse potenti.
+MSG 453198 Donec at dolor libero. Vestibulum eu tempus nisl. Cras nisi turpis, lobortis ut euismod ac, gravida vitae elit.
+MSG 420466 It is also a garbage-collected runtime system. Its main implementation is the Glasgow Haskell Compiler.
+MSG 388306 Cras ornare mauris dolor, in dignissim mauris semper sit amet. Erlang is known for its designs that are well suited for systems.
+ACK 315579
+MSG 389525 Praesent semper lorem at quam porttitor sollicitudin. Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit.
+MSG 534417 Suspendisse potenti. Ports are used to communicate with the external world.
+MSG 769915 Cras fringilla arcu id nunc tincidunt mattis. Erlang is a general-purpose, concurrent, functional programming language.
+MSG 936900 Sed et lectus quam. Integer at imperdiet ante, in faucibus nunc. Sed et lectus quam. Integer at imperdiet ante, in faucibus nunc.
+ACK 509507
+ACK 863432
+ACK 362254
+ACK 653690
+ACK 735376
+MSG 35394 Any element of a tuple can be accessed in constant time. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 814040 Nullam eget ex sapien. The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.
+ACK 577051
+MSG 860728 Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit. Erlang is a general-purpose, concurrent, functional programming language.
+MSG 178684 Sed et lectus quam. Integer at imperdiet ante, in faucibus nunc. Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol."
+MSG 94384 Fusce in ipsum mi. Praesent a ante sodales, commodo augue a, maximus diam.
+MSG 621964 Tuples are containers for a fixed number of Erlang data types. Nunc eleifend semper sagittis. Etiam lorem lorem, imperdiet vel feugiat quis, ullamcorper id erat.
+MSG 254312 Donec at dolor libero. Vestibulum eu tempus nisl. Donec nec nisl dignissim, suscipit elit ut, molestie erat.
+MSG 860228 Fusce eget urna nec neque rutrum dapibus. Morbi sapien odio, venenatis vitae tristique non, condimentum et nibh.
+ACK 469687
+ACK 220639
+MSG 616322 Donec at dolor libero. Vestibulum eu tempus nisl. Morbi sapien odio, venenatis vitae tristique non, condimentum et nibh.
+MSG 811563 Nulla mattis nisi ultrices arcu ultricies, ut facilisis nibh fringilla. Erlang is known for its designs that are well suited for systems.
+MSG 224345 Donec at dolor libero. Vestibulum eu tempus nisl. Curabitur nec arcu sit amet nisl vulputate lacinia eu vel elit.
+ACK 768256
+MSG 699133 Cras ornare mauris dolor, in dignissim mauris semper sit amet. Fusce eget urna nec neque rutrum dapibus.
+MSG 58364 Aliquam eu erat semper, interdum libero sed, tempus felis. Aenean ligula lectus, tristique in tristique a, lacinia sit amet nunc.
+ACK 35394
+MSG 196476 Ports are created with the built-in function open_port. Erlang is known for its designs that are well suited for systems.
+ACK 724194
+MSG 922267 Type classes first appeared in the Haskell programming language. Erlang is a general-purpose, concurrent, functional programming language.
+MSG 380691 Tuples are containers for a fixed number of Erlang data types. Fusce in ipsum mi.
+MSG 243310 Suspendisse potenti. Type classes first appeared in the Haskell programming language.
+MSG 458542 Cras fringilla arcu id nunc tincidunt mattis. Donec nec nisl dignissim, suscipit elit ut, molestie erat.
+MSG 210885 Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol." Morbi sapien odio, venenatis vitae tristique non, condimentum et nibh.
+MSG 173000 Praesent semper lorem at quam porttitor sollicitudin. Fusce eget urna nec neque rutrum dapibus.
+ACK 982946
+MSG 947555 Integer at consequat neque. Any element of a tuple can be accessed in constant time.
+MSG 92789 Atoms are used within a program to denote distinguished values. Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
+ACK 769915
+MSG 438760 Tuples are containers for a fixed number of Erlang data types. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+MSG 137554 Donec at dolor libero. Vestibulum eu tempus nisl. Nullam fermentum est enim, quis consequat augue elementum a.
+MSG 121038 Aenean ligula lectus, tristique in tristique a, lacinia sit amet nunc. Integer at consequat neque.
+MSG 888260 Atoms are used within a program to denote distinguished values. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 299748 Fusce in ipsum mi. Praesent semper lorem at quam porttitor sollicitudin.
+MSG 100604 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+MSG 776988 Donec at dolor libero. Vestibulum eu tempus nisl. Vivamus luctus luctus nisi, in rutrum lectus posuere faucibus.
+ACK 388306
+MSG 343660 Praesent a ante sodales, commodo augue a, maximus diam. Cras fringilla arcu id nunc tincidunt mattis.
+ACK 501308
+ACK 453198
+MSG 741217 Tuples are containers for a fixed number of Erlang data types. Cras fringilla arcu id nunc tincidunt mattis.
+ACK 85349
+MSG 107981 Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. Vivamus luctus luctus nisi, in rutrum lectus posuere faucibus.
+MSG 222728 Praesent a ante sodales, commodo augue a, maximus diam. Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol."
+MSG 998381 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erlang is a general-purpose, concurrent, functional programming language.
+MSG 520371 Messages can be sent to and received from ports, but these messages must obey the so-called "port protocol." Tuples are containers for a fixed number of Erlang data types.
+MSG 431161 Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. Tuples are containers for a fixed number of Erlang data types.
+MSG 267668 Ut lectus nulla, semper sed malesuada id, finibus ac nibh. The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.
+MSG 954274 Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing. Praesent semper lorem at quam porttitor sollicitudin.
+ACK 482960
+MSG 63866 Suspendisse potenti. Nullam eget ex sapien.
+ACK 138182
+MSG 302908 Ut lectus nulla, semper sed malesuada id, finibus ac nibh. Its main implementation is the Glasgow Haskell Compiler.
+MSG 925001 Ut lectus nulla, semper sed malesuada id, finibus ac nibh. Donec nec nisl dignissim, suscipit elit ut, molestie erat.
+ACK 161047
+ACK 556429

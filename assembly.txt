@@ -1,0 +1,20 @@
+inc d 2
+inc e -5
+xor c e
+jnz c -2
+inc b 109
+inc a 115
+add c a
+inc a 1
+out a
+inc a -5
+out a
+out b
+xor c c
+xor a b
+inc a -3
+xor b b
+add d a
+xor e e
+inc a 1
+jnz d -16
